@@ -9,4 +9,5 @@ https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-log
 https://discussions.udacity.com/t/how-do-we-know-that-root-login-is-disabled/40777
 `sudo service ssh restart`
 
+https://github.com/elnobun/Linux-Server-Configuration
 
