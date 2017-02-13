@@ -37,9 +37,9 @@ I then cloned my project's repository and moved the files to the correct directo
 I used this [Digital Ocean Reference][2] on how to deploy a flask application to guide me. 
 I made the .git directory inaccessible by editing the `.htaccess` file, guided by the second answer on this [Stack Overflow][3] post.
 
-Converting from sqlite to postgresql was done by looking it up in the [sqlalchemy docs][6]. Changing the database setup was done following steps in Ellis Enobun's [project readme][4], section J. 
+Converting from sqlite to postgresql was done by looking it up in the [sqlalchemy docs][6]. Changing the database setup was done following steps in Ellis Enobun's [project readme][4], section J. His project readme is amazingly well detailed and was a great reference point for me. 
 
-Besides the links listed above, an amazing resource for this project was Ellis Enobun's super [detailed description][4] on how he completed this project, as well as this forum post on [permission denied publickey][5] (and the Udacity forums in general.)
+Besides the links listed above, I used the Udacity forums a lot when I was stuck, this forum post on [permission denied publickey][5] was very helpful. 
 
 [1]: https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04#how-to-set-up-git 
 [2]: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
