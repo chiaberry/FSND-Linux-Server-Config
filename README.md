@@ -3,7 +3,13 @@
 
 Linux Distribution on a virtual machine. 
 
-http://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e
+This is in fulfillment for a project in the Fullstack Nanodegree. I have configured a remote server to deploy a previous project in the Nanodegree, the Shared Library Project.
 
-https://github.com/elnobun/Linux-Server-Configuration
+### To access the project
+
+The ip address is : `35.162.17.201`
+
+SSH port is : `2200`
+
+The complete url is either http://35.162.17.201 or http://ec2-35-162-17-201.us-west-2.compute.amazonaws.com
 
